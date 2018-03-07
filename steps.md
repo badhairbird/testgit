@@ -3,3 +3,4 @@
 - increase communication with donors
 - update website
 - convert project servants to donors
+
